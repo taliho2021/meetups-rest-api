@@ -1,0 +1,19 @@
+[
+	{
+		"id": 1,
+		"title": "Meeting Number 1",
+		"summary": "A first test meetup",
+		"address": "134 Northern Blvd., Baysde, NY 11351"
+	},
+	{
+		"id": 2,
+		"title": "Meeting Number 2",
+		"summary": "A first test meetup",
+		"address": "134 Northern Blvd., Baysde, NY 11351"
+	},
+	{
+		"id": 3,
+		"summary": "A first test meetup",
+		"address": "134 Northern Blvd., Baysde, NY 11351"
+	}
+]
